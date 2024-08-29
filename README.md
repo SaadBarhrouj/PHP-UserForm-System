@@ -1,5 +1,6 @@
 <div style="text-align: center;">
-    <img src="preview/preview.png" alt="PHP-UserForm-System" style="border: 2px solid #000; display: inline-block; width="300" ">
+        <img src="preview/preview.png" alt="" width="400" style="border: 2px solid #000; display: inline-block;">
+
 </div>
 <hr>
 
