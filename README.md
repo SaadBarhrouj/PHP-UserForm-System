@@ -1,6 +1,5 @@
 <div style="text-align: center;">
         <img src="preview/preview.png" alt="" width="600" style="border: 2px solid #000; display: inline-block;">
-
 </div>
 <hr>
 
