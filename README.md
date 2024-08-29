@@ -22,6 +22,7 @@ Feel free to fork the repository and contribute to the project. For any issues o
 
 For any inquiries or feedback, you can reach me via:
 
+- **portfolio:** [Saad Barhrouj][(saad.barhrouj@etu.uae.ac.ma](https://portfolio-saad-barhrouj.netlify.app/) 📧
 - **Email:** [Saad Barhrouj](saad.barhrouj@etu.uae.ac.ma) 📧
 - **LinkedIn:** [Saad Barhrouj](https://www.linkedin.com/in/saad-barhrouj-b37270295/) 💼
 - **GitHub:** [SaadBarhrouj](https://github.com/SaadBarhrouj) 🐙
