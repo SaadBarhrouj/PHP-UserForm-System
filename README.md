@@ -1,6 +1,5 @@
 <div style="text-align: center;">
-    
-    <img src="preview/preview.png" alt="PHP-UserForm-System" width="600" style="border: 2px solid #000; display: inline-block;">
+        <img src="preview/preview.png" alt="" width="600" style="border: 2px solid #000; display: inline-block;">
 </div>
 <hr>
 
@@ -23,6 +22,7 @@ Feel free to fork the repository and contribute to the project. For any issues o
 
 For any inquiries or feedback, you can reach me via:
 
+- **portfolio:** [Saad Barhrouj](https://portfolio-saad-barhrouj.netlify.app/) 📧
 - **Email:** [Saad Barhrouj](saad.barhrouj@etu.uae.ac.ma) 📧
 - **LinkedIn:** [Saad Barhrouj](https://www.linkedin.com/in/saad-barhrouj-b37270295/) 💼
 - **GitHub:** [SaadBarhrouj](https://github.com/SaadBarhrouj) 🐙
